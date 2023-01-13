@@ -28,7 +28,7 @@ export class FormsComponent implements OnInit {
   ];
 
   countries = [
-    new Country('UY', 'Uruguay'),
+    new Country('UY', 'India'),
     new Country('US', 'United States'),
     new Country('AR', 'Argentina')
   ];
