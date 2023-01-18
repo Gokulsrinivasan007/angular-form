@@ -30,7 +30,7 @@ export class FormSecondComponent implements OnInit {
   ];
 
   countries = [
-    new Country('UY', 'India'),
+    new Country('IN', 'India'),
     new Country('US', 'United States'),
     new Country('AR', 'Argentina')
   ];
